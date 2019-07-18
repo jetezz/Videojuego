@@ -10,10 +10,10 @@ Funcionamiento
 
 Controles
 =====
-Movimiento del personaje: ↑ ↓
-Potencia del tiro: ← →
-Lanzar bomba : b
-Modo dios : g
+Movimiento del personaje: ↑ ↓ .
+Potencia del tiro: ← .
+Lanzar bomba : b .
+Modo dios : g .
 
 Enemigos
 =====
