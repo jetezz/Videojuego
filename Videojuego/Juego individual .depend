@@ -1,0 +1,105 @@
+# depslib dependency file v1.0
+1557056874 source:/home/fv/Escritorio/Juego individual /main.cpp
+	<SFML/Graphics.hpp>
+	<juego.h>
+
+1557057321 source:/home/fv/Escritorio/Juego individual /src/juego.cpp
+	"juego.h"
+
+1557055712 /home/fv/Escritorio/Juego individual /include/juego.h
+	<iostream>
+	<disparo.h>
+	<SFML/Graphics.hpp>
+	<player.h>
+	<enemigo.h>
+	<math.h>
+	<caja.h>
+	<sstream>
+	<Mapa.h>
+
+1557055773 source:/home/fv/Escritorio/Juego individual /src/player.cpp
+	"player.h"
+
+1557057369 /home/fv/Escritorio/Juego individual /include/player.h
+	<SFML/Graphics.hpp>
+	<juego.h>
+
+1556229262 source:/home/fv/Escritorio/Juego individual /src/bala.cpp
+	"bala.h"
+
+1556230075 /home/fv/Escritorio/Juego individual /include/bala.h
+
+1556724220 /home/fv/Escritorio/Juego individual /include/disparo.h
+	<SFML/Graphics.hpp>
+	<juego.h>
+
+1556986385 source:/home/fv/Escritorio/Juego individual /src/disparo.cpp
+	"disparo.h"
+
+1556990726 /home/fv/Escritorio/Juego individual /include/enemigo.h
+	<juego.h>
+	<cstdlib>
+
+1556994292 source:/home/fv/Escritorio/Juego individual /src/enemigo.cpp
+	"enemigo.h"
+
+1556799275 /home/fv/Escritorio/Juego individual /include/caja.h
+	<juego.h>
+
+1556985132 source:/home/fv/Escritorio/Juego individual /src/caja.cpp
+	"caja.h"
+
+1556965658 source:/home/fv/Escritorio/Juego individual /src/Mapa.cpp
+	<Mapa.h>
+	<iostream>
+
+1556965052 /home/fv/Escritorio/Juego individual /include/Mapa.h
+	<tinyxml2.h>
+	<juego.h>
+	"SFML/Graphics.hpp"
+
+1554794315 /home/fv/Escritorio/Juego individual /include/tinyxml2.h
+	<ctype.h>
+	<limits.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stddef.h>
+	<cctype>
+	<climits>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<stdint.h>
+	<android/log.h>
+	<assert.h>
+
+1556822387 source:/home/fv/Escritorio/Juego individual /src/mapa.cpp
+	"mapa.h"
+	<iostream>
+	<SFML/System.hpp>
+	<SFML/Graphics.hpp>
+	"tinyxml2.h"
+
+1556822477 /home/fv/Escritorio/Juego individual /include/mapa.h
+	<tinyxml2.h>
+	"SFML/Graphics.hpp"
+
+1554794315 /home/fv/Escritorio/Juego individual /include/TileMap.h
+	<SFML/Graphics/Drawable.hpp>
+	<SFML/Graphics/Transformable.hpp>
+	<SFML/Graphics/RenderTarget.hpp>
+	<SFML/Graphics/Texture.hpp>
+	<SFML/Graphics/VertexArray.hpp>
+
+1554794315 source:/home/fv/Escritorio/Juego individual /src/TileMap.cpp
+	"TileMap.h"
+
+1554794315 source:/home/fv/Escritorio/Juego individual /src/tinyxml2.cpp
+	"tinyxml2.h"
+	<new>
+	<stddef.h>
+	<stdarg.h>
+	<cstddef>
+	<cstdarg>
+

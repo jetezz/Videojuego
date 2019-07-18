@@ -1,0 +1,16 @@
+Movimiento del personaje: sw.
+Potencia del disparo: ad.
+Disparo: espacio.
+Bomba: b.
+Modo dios: g.
+
+
+Al mago solo se le puede matar estando en la misma linea que el.
+Al dragon se le puee matar desde cualquier linea.
+El modo dios te regenera las bombas y te hace invulnerable a los ataques de los enemigos.
+
+
+El juego termina cuando 3 enemigos llegan al final de la pantalla o tu vida llega a 0.
+No se puede terminar el juego, el objetivo es conseguir el mayor numero de puntos posible.
+	
+

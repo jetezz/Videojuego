@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Juego individual" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Juego individual " prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="include" />
+				</Compiler>
+				<Linker>
+					<Add library="sfml-graphics" />
+					<Add library="sfml-window" />
+					<Add library="sfml-system" />
+				</Linker>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Juego individual " prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="0" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add directory="include" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+					<Add library="sfml-graphics" />
+					<Add library="sfml-window" />
+					<Add library="sfml-system" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="cb.bmp" />
+		<Unit filename="include/Mapa.h" />
+		<Unit filename="include/TileMap.h" />
+		<Unit filename="include/caja.h" />
+		<Unit filename="include/disparo.h" />
+		<Unit filename="include/enemigo.h" />
+		<Unit filename="include/juego.h" />
+		<Unit filename="include/player.h" />
+		<Unit filename="include/tinyxml2.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="src/Mapa.cpp" />
+		<Unit filename="src/TileMap.cpp" />
+		<Unit filename="src/caja.cpp" />
+		<Unit filename="src/disparo.cpp" />
+		<Unit filename="src/enemigo.cpp" />
+		<Unit filename="src/juego.cpp" />
+		<Unit filename="src/player.cpp" />
+		<Unit filename="src/tinyxml2.cpp" />
+		<Extensions>
+			<envvars />
+			<code_completion />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
